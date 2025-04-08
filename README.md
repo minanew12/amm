@@ -8,10 +8,6 @@ For sequence diagram please install plantuml extension in VSCode, java runtime u
 sudo apt install default-jre
 ```
 
-## Statistics
-Can be found under the folder *stats*
-
-
 ## amm
 Solidity source code based on 
 
